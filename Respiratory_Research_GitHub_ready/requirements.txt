@@ -1,0 +1,8 @@
+# Python package versions were not pinned in the frozen submission archive.
+# Install compatible current versions, or replace with the exact versions from the authors' analysis environment if available.
+numpy
+pandas
+scipy
+h5py
+matplotlib
+openpyxl

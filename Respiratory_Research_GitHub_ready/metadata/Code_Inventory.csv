@@ -1,0 +1,28 @@
+script,dataset,analysis,input,output,language,dependencies,final_status,reproducible,notes
+smoke/analyze_GSE135188_smoke.R,smoke,analyze GSE135188 smoke,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+stretch/analyze_GSE59128_unified.R,stretch,analyze GSE59128 unified,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+targeted_upgrades/prepare_ali_lineage.py,targeted_upgrades,prepare ali lineage,frozen project processed data,frozen result tables,Python,see script/session information,FINAL,YES,No raw matrices included
+targeted_upgrades/prepare_lodo_benchmark.py,targeted_upgrades,prepare lodo benchmark,frozen project processed data,frozen result tables,Python,see script/session information,FINAL,YES,No raw matrices included
+targeted_upgrades/run_slingshot_trajectory.R,targeted_upgrades,run slingshot trajectory,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+targeted_upgrades/run_maturation_projection.R,targeted_upgrades,run maturation projection,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+targeted_upgrades/run_GSE300258_validation.R,targeted_upgrades,run GSE300258 validation,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+targeted_upgrades/run_benchmark_and_dwls.R,targeted_upgrades,run benchmark and dwls,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+scRNA/build_GSE134174_deconvolution_reference.py,scRNA,build GSE134174 deconvolution reference,frozen project processed data,frozen result tables,Python,see script/session information,FINAL,YES,No raw matrices included
+scRNA/prepare_GSE134174_pseudobulk.py,scRNA,prepare GSE134174 pseudobulk,frozen project processed data,frozen result tables,Python,see script/session information,FINAL,YES,No raw matrices included
+scRNA/analyze_GSE134174.R,scRNA,analyze GSE134174,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+scRNA/analyze_GSE134174_third_stage_ALI.R,scRNA,analyze GSE134174 third stage ALI,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+scRNA/analyze_GSE233145_second_stage.R,scRNA,analyze GSE233145 second stage,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+scRNA/extract_GSE233145_target_pseudobulk.py,scRNA,extract GSE233145 target pseudobulk,frozen project processed data,frozen result tables,Python,see script/session information,FINAL,YES,No raw matrices included
+scRNA/prepare_GSE134174_third_stage_invitro.py,scRNA,prepare GSE134174 third stage invitro,frozen project processed data,frozen result tables,Python,see script/session information,FINAL,YES,No raw matrices included
+PM25/prepare_GSE144770_metadata.py,PM25,prepare GSE144770 metadata,frozen project processed data,frozen result tables,Python,see script/session information,FINAL,YES,No raw matrices included
+PM25/analyze_GSE108134_PM25.R,PM25,analyze GSE108134 PM25,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+PM25/analyze_GSE144770_second_stage.R,PM25,analyze GSE144770 second stage,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+PML/analyze_GSE79210_longitudinal.R,PML,analyze GSE79210 longitudinal,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+PML/analyze_GSE33479_third_stage.R,PML,analyze GSE33479 third stage,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+PML/analyze_GSE109743_extended.R,PML,analyze GSE109743 extended,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+PML/analyze_GSE114489_two_axis.R,PML,analyze GSE114489 two axis,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+PML/analyze_GSE114489_third_stage.R,PML,analyze GSE114489 third stage,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+PML/analyze_GSE320381_composition_adjusted.py,PML,analyze GSE320381 composition adjusted,frozen project processed data,frozen result tables,Python,see script/session information,FINAL,YES,No raw matrices included
+PML/analyze_GSE320381_third_stage.R,PML,analyze GSE320381 third stage,frozen project processed data,frozen result tables,R,see script/session information,FINAL,YES,No raw matrices included
+figure_sources/rebuild_all_figures.py,All figures,publication figure rebuild,Excel-grounded/staged source tables,"PDF, SVG, 600-dpi PNG",Python/R,R ggplot2/patchwork; artifact-tool workbook,FINAL,YES,Presentation-only
+supplementary_figure_sources/rebuild_supplementary_figures.py,All figures,publication figure rebuild,Excel-grounded/staged source tables,"PDF, SVG, 600-dpi PNG",Python/R,R ggplot2/patchwork; artifact-tool workbook,FINAL,YES,Presentation-only

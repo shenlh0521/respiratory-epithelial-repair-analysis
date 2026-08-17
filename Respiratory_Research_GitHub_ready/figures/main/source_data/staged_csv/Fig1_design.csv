@@ -1,0 +1,18 @@
+domain,dataset,tissue,role,sample_summary,record_type,panel
+PML,GSE109743,Bronchial biopsies,Discovery; subtype and severity,295 samples; 49 participants,dataset,A
+PML,GSE320381,Bronchial biopsies,Independent severity replication,108 samples; 33 participants,dataset,A
+PML,GSE33479,Bronchial biopsies,Independent severity replication,122 samples; 77 participants,dataset,A
+PML,GSE114489,Baseline lesion-site biopsies,Longitudinal lesion outcome,38 lesion sites,dataset,A
+PML,GSE79210,Airway field brushings,Longitudinal sensitivity analysis,17 participants,dataset,A
+Single-cell,GSE134174,Human airway epithelium,In vivo state localization,12 donors,dataset,B
+Single-cell,GSE134174 ALI,Normal ALI differentiation,Trajectory and maturation reference,3 donors,dataset,B
+Single-cell,GSE233145,Human airway epithelium,Supportive state analysis,Independent scRNA dataset,dataset,B
+Perturbation,GSE144770,Primary airway epithelium,Controlled PM2.5,5 donors,dataset,C
+Perturbation,GSE135188,Airway epithelium,Whole cigarette smoke,6 donors,dataset,C
+Perturbation,GSE59128,Airway epithelium,Mechanical stretch,4 donors,dataset,C
+Model,Airway perturbation,,stage 1,,framework,D
+Model,Repair-dominant basal state,,stage 2,,framework,D
+Model,Transitional state,,stage 3,,framework,D
+Model,Multiciliogenesis,,stage 4,,framework,D
+Model,Mature ciliated epithelium,,stage 5,,framework,D
+Model,PML association,,repair-high / less-mature shift,,framework,D

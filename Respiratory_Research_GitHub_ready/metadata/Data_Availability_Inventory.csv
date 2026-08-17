@@ -1,0 +1,13 @@
+dataset,Species,tissue,role,samples_cells,subjects_donors,placement
+GSE109743,Human,Bronchial biopsies,PML discovery; subtype and severity,295,49,Main
+GSE320381,Human,Bronchial biopsies,Independent severity replication; exploratory NNLS sensitivity,108,33,Main
+GSE33479,Human,Bronchial biopsies,Independent severity replication,122,77,Main
+GSE114489,Human,Baseline lesion-site biopsies,Longitudinal lesion persistence/regression,38 lesion sites,Not available,Main
+GSE79210,Human,Airway field brushings,Longitudinal compartment sensitivity; null,51,23,Main/Supplement
+GSE134174,Human,Airway scRNA-seq,Epithelial-state localization,"36,248 cells",15 donors,Main
+GSE134174 ALI,Human,Normal airway ALI scRNA-seq,Slingshot trajectory and maturation reference,"2,435 lineage cells",3 donors,Main
+GSE233145,Human,Airway scRNA-seq,Supportive state analysis,"64,062 cells",4 donors,Supplement
+GSE144770,Human,Primary airway epithelium,Controlled PM2.5,5 donors,5,Main/Supplement
+GSE108134,Human,Small-airway brushings,Ambient PM2.5 sensitivity,307 samples,129 subjects,Supplement
+GSE135188,Human,Airway epithelium,Whole cigarette smoke,6 donors,6,Main/Supplement
+GSE59128,Human,Airway epithelium,Mechanical stretch,4 cell lines,4,Main/Supplement
